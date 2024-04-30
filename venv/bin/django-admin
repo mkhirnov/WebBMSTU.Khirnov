@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/matvey/Рабочий стол/WebDC/WebDev/venv/bin/python3.12" "$0" "$@"
+'''exec' "/home/matvey/Рабочий стол/WebDev/venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
